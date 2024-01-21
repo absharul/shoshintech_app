@@ -1,0 +1,36 @@
+[
+    {
+      "title": "Kuku FM",
+      "description": "Play an audiobook",
+      "offers" : "50% OFF",
+      "logo": "https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/fc/3a/7a/fc3a7a7c-f639-1a58-b366-39adebfd2d35/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x600wa.png"
+    },
+    {
+      "title": "SoundCloud",
+      "description": "Listen music for free",
+      "offers" : "30% OFF",
+      "logo": "https://yt3.ggpht.com/gKji6GXK5qxosFT89V5i0NX6E_LzGQiaW3XTULf87gIT4pAlVzTv9U7zsXFYB77KRtHtlg5yt5A=s176-c-k-c0x00ffffff-no-rj-mo"
+    },
+  
+    {
+      "title": "Flutter",
+      "description": "Cross Platform App Development Framework",
+      "offers" : "40% OFF",
+      "logo": "https://yt3.googleusercontent.com/ytc/AIf8zZRSEvi_2s4JZSZ5am-GGPBRRKE54_ZRI2x2zsIu=s176-c-k-c0x00ffffff-no-rj-mo"
+    },
+    {
+    "title": "Zerodha",
+    "description": "India's no.1 discount stock broker",
+      "offers" : "25% OFF",
+      "logo": "https://yt3.ggpht.com/uT4_jY-yuwheNIl1Jrr0s6bzrFY_PZd_LFUdJJRS8XsnQuPcZV8PlC5XuOt3GbtCWVIBW0aittQ=s176-c-k-c0x00ffffff-no-rj-mo"
+    },
+
+    {
+    "title": "MrBeast",
+    "description": "World's Biggest Individual Youtuber",
+      "offers" : "80% OFF",
+      "logo": "https://yt3.googleusercontent.com/ytc/AIf8zZTM49hEx9zyui_0zDZKi75EgqJPJfuDmWu1cePdQQ=s176-c-k-c0x00ffffff-no-rj"
+    }
+
+
+]
